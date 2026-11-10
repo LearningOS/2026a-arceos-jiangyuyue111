@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2078,
   "repository": "LearningOS/2026a-arceos-jiangyuyue111",
-  "commit": "880e9153e09ba3b2a37968a32921e1d669d72fad",
-  "score": 500,
+  "commit": "5d39fe12750e99b1fbf005ed296ecfacbbb85e02",
+  "score": 600,
   "totalScore": 600,
   "exercises": [
     {
@@ -44,15 +44,15 @@
     {
       "name": "simple_hv",
       "max": 100,
-      "score": 0,
-      "status": "timeout",
-      "exitCode": 124
+      "score": 100,
+      "status": "pass",
+      "exitCode": 0
     }
   ],
   "student": "jiangyuyue111",
-  "runId": "42750853091",
+  "runId": "42752609736",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
